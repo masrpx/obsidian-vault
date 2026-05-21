@@ -1,0 +1,387 @@
+{
+  "main": {
+    "id": "9a6875ee2d79624a",
+    "type": "split",
+    "children": [
+      {
+        "id": "165d6574cd54d9a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "660963982aa8b3a1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e2e707a11446570e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "เทคนิคการเทรด.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "เทคนิคการเทรด"
+            }
+          },
+          {
+            "id": "f35f541b1ca9bdd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "สัมมนาเงินวันที่ 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "สัมมนาเงินวันที่ 1"
+            }
+          },
+          {
+            "id": "b013700602666f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "สัมมนาเงิน.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "สัมมนาเงิน"
+            }
+          },
+          {
+            "id": "161e844f0918bdde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "สัมมนาเงิน.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "สัมมนาเงิน"
+            }
+          },
+          {
+            "id": "02076278df4b4b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Journal/2026-03-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-12"
+            }
+          },
+          {
+            "id": "30004e40195e907a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Journal/2026-03-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-18"
+            }
+          },
+          {
+            "id": "e2e4fd25246414b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Journal/2026-03-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-18"
+            }
+          },
+          {
+            "id": "6ece185de69d6224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Unconditional Love ให้ลูก.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unconditional Love ให้ลูก"
+            }
+          },
+          {
+            "id": "ae1d53ca23e31a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thinking in Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thinking in Systems"
+            }
+          },
+          {
+            "id": "2ec3f303b76cb7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Journal/2026-02-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-25"
+            }
+          },
+          {
+            "id": "4408270fd9d3f756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Journal/2026-02-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-27"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfb0bd312f7b29f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbe22e3843af641b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb72c90c30987d62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "67cb318b549aed01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5b57c88f3f226304",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8a66e721427189e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff9acc50751eb666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af1d6f47c419be3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "167f8680daa0a3d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "14b61501b75ff22c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "08cc7010bf0dbb7f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aa2d97a767cec2ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "สัมมนาเงิน.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of สัมมนาเงิน"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "67cb318b549aed01",
+  "lastOpenFiles": [
+    "Git Silvkaya Project.md",
+    "สัมมนาเงิน.md",
+    "เรียนกอล์ฟ.md",
+    "เทคนิคการเทรด.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Git Password.md",
+    "Screenshot 2026-04-04 104438.png",
+    "Lakoi Manifesto 05 2026.md",
+    "ทะเลาะกับแฟน.md",
+    "CFP M1 Day1.md",
+    "Persona.md",
+    "Daily Journal/2026-04-14.md",
+    "Daily Journal/2026-04-07.md",
+    "Daily Journal/2026-04-06.md",
+    "Daily Journal/2026-04-05.md",
+    "Daily Journal/2026-04-04.md",
+    "Concepts/Unconditional Love ให้ลูก.md",
+    "Daily Journal/2026-03-03.md",
+    "Content/ผู้ชายบ้าระบบกับดอกไม้.md",
+    "Daily Journal/2026-04-03.md",
+    "Concepts/ประวัติศาสตร์ไม่ซ้ำรอยแต่ rhyme.md",
+    "Content/วิธีถามให้ได้ความจริงตั้งแต่เดทแรก.md",
+    "Content/คนมีกิ๊ก ฟังทางนี้.md",
+    "Content/ชีวิตไม่มีอะไรแน่นอน.md",
+    "Content/คนทำงานพลาดมม.md",
+    "Content/Reference Max Lakoi ช่วง 1000 ฟอล.md",
+    "Pictures/Screenshot 2026-03-22 193649.jpg",
+    "Screenshot 2026-03-22 193649.jpg",
+    "Personal",
+    "Concepts",
+    "Business",
+    "Sources",
+    "Content",
+    "MOCs",
+    "Untitled",
+    "Daily Journal",
+    "Untitled 2",
+    "Untitled 1",
+    "Pictures/IMG_7253.jpeg",
+    "Pictures/5c9b9d5f-48d0-4cf6-b1ac-570f3cce5d7a.png",
+    "Pictures/1a8dd3f7-c5f0-4dc9-9271-e04e5537f7a1.png",
+    "Pictures/2fe2f506-2602-49dd-8bb2-5189ba200a16.png",
+    "Untitled 1.canvas",
+    "IMG_6755.jpg",
+    "IMG_6757.jpg",
+    "a92e6fd7-fea2-4baf-8f43-66bd348afd3f.png"
+  ]
+}
