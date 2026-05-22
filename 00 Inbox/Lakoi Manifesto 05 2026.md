@@ -1,3 +1,5 @@
+
+MIssion for my personal life and tiktok channel
 Wealth × Love Manifesto: จดหมายเหตุแห่งความรวยและรัก**
 
 **โดย แม็กซ์ (ศิรภพ ศิริวัฒนอักษร)**

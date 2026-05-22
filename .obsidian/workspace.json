@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "สัมมนาเงิน.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "สัมมนาเงิน"
+              "title": "Home"
             }
           },
           {
@@ -225,8 +225,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -306,13 +305,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "สัมมนาเงิน.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of สัมมนาเงิน"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -334,8 +333,30 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "67cb318b549aed01",
+  "active": "161e844f0918bdde",
   "lastOpenFiles": [
+    "Template/Daily Template.md",
+    "Pictures/Screenshot 2026-03-22 193649.jpg",
+    "Pictures/Screenshot 2026-04-04 104438.png",
+    "Pictures/IMG_7253.jpeg",
+    "Pictures/5c9b9d5f-48d0-4cf6-b1ac-570f3cce5d7a.png",
+    "Pictures/2fe2f506-2602-49dd-8bb2-5189ba200a16.png",
+    "Pictures/1a8dd3f7-c5f0-4dc9-9271-e04e5537f7a1.png",
+    "03 Resources/Concepts/3 วงกลม.md",
+    "MOCs/MOC ความสัมพันธ์.md",
+    "MOCs/MOC Content Creation.md",
+    "MOCs/MOC AI.md",
+    "00 Inbox/ที่เที่ยวน่าสนใจ.md",
+    "00 Inbox/Projects.md",
+    "00 Inbox/Lakoi Manifesto 05 2026.md",
+    "02 Areas/Finance/สัมมนาเงิน.md",
+    "00 Inbox/Areas.md",
+    "02 Areas/Finance/รวมความรู้ Bitcoin.md",
+    "02 Areas/Finance/เทคนิคการเทรด.md",
+    "02 Areas/Allianz/Allianz.md",
+    "01 Projects/Lakoi 1K→10K/Reference Max Lakoi ช่วง 1000 ฟอล.md",
+    "01 Projects/CFP Certification/CFP M1 Day1.md",
+    "01 Projects/Book คู่แท้สร้างได้/หนังสือ คู่แท้สร้างได้ด้วยตัวเอง.md",
     "Git Silvkaya Project.md",
     "สัมมนาเงิน.md",
     "เรียนกอล์ฟ.md",
@@ -348,22 +369,6 @@
     "ทะเลาะกับแฟน.md",
     "CFP M1 Day1.md",
     "Persona.md",
-    "Daily Journal/2026-04-14.md",
-    "Daily Journal/2026-04-07.md",
-    "Daily Journal/2026-04-06.md",
-    "Daily Journal/2026-04-05.md",
-    "Daily Journal/2026-04-04.md",
-    "Concepts/Unconditional Love ให้ลูก.md",
-    "Daily Journal/2026-03-03.md",
-    "Content/ผู้ชายบ้าระบบกับดอกไม้.md",
-    "Daily Journal/2026-04-03.md",
-    "Concepts/ประวัติศาสตร์ไม่ซ้ำรอยแต่ rhyme.md",
-    "Content/วิธีถามให้ได้ความจริงตั้งแต่เดทแรก.md",
-    "Content/คนมีกิ๊ก ฟังทางนี้.md",
-    "Content/ชีวิตไม่มีอะไรแน่นอน.md",
-    "Content/คนทำงานพลาดมม.md",
-    "Content/Reference Max Lakoi ช่วง 1000 ฟอล.md",
-    "Pictures/Screenshot 2026-03-22 193649.jpg",
     "Screenshot 2026-03-22 193649.jpg",
     "Personal",
     "Concepts",
@@ -375,13 +380,8 @@
     "Daily Journal",
     "Untitled 2",
     "Untitled 1",
-    "Pictures/IMG_7253.jpeg",
-    "Pictures/5c9b9d5f-48d0-4cf6-b1ac-570f3cce5d7a.png",
-    "Pictures/1a8dd3f7-c5f0-4dc9-9271-e04e5537f7a1.png",
-    "Pictures/2fe2f506-2602-49dd-8bb2-5189ba200a16.png",
     "Untitled 1.canvas",
     "IMG_6755.jpg",
-    "IMG_6757.jpg",
-    "a92e6fd7-fea2-4baf-8f43-66bd348afd3f.png"
+    "IMG_6757.jpg"
   ]
 }

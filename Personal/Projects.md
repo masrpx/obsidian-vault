@@ -1,4 +1,0 @@
-[[Rachatagaya]]
-[[Lakoi]]
-[[Prasit]]
-[[Allianz]]
