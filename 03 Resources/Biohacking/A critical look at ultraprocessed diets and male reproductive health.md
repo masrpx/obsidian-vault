@@ -1,10 +1,10 @@
 ---
 title: A critical look at ultra-processed diets and male reproductive health
 source: https://peterattiamd.com/ultra-processed-diets-and-reproductive-health/
-created: 2026-05-23
+created: 2026-05-24
 tags: [milin-research]
 ---
 
-A randomized crossover feeding study (n=43 men, 20–35yo) found that 3 weeks on an ultra-processed food (UPF) diet caused ~1.3–1.4kg fat mass gain, worsened cardiometabolic markers (LDL:HDL, blood pressure), and in the excess-calorie arm, reduced FSH (~0.5 IU/L) and total sperm motility (~13%) — effects observed across both adequate and excess calorie conditions. The NOVA classification defines UPFs as industrial formulations using refined ingredients, additives, and flavor enhancers (packaged snacks, sweetened cereals, pastries, etc.). The central unresolved question is whether UPFs exert direct calorie-independent biological harm on reproductive hormones and spermatogenesis, or whether effects are primarily mediated through excess energy intake and metabolic dysfunction. Headlines (e.g., Washington Post) overstated causality; the study design, while stronger than observational data, has limitations in fully isolating processing from calorie composition. Practically, minimizing UPFs appears prudent for metabolic and reproductive health optimization, especially relevant during pre-conception windows.
+A randomized crossover feeding study in 43 men found that 3 weeks on an ultra-processed diet (UPFs) caused ~1.3–1.4 kg fat mass gain, worsened cardiometabolic markers (LDL:HDL, blood pressure), a ~0.5 IU/L drop in FSH, and ~13% decline in total sperm motility — effects that appeared in both adequate- and excess-calorie conditions. These findings suggest UPFs may disrupt male reproductive hormones and spermatogenesis independently of total caloric intake, not merely through overeating. However, a critical lens is warranted: the study involved only 43 non-obese men over 3 weeks, and separating 'ultra-processed' as a causal mechanism from confounders like overall diet quality remains methodologically challenging. The broader context is alarming: meta-analyses report ~50% decline in sperm concentration and ~60% drop in total sperm count globally between 1973–2018, with diet as a key modifiable variable. The central unresolved question is whether 'ultra-processed' itself is a causal mechanism or a proxy label for diets that drive metabolic dysfunction.
 
 > Source: https://peterattiamd.com/ultra-processed-diets-and-reproductive-health/
