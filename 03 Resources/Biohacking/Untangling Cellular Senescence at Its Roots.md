@@ -1,10 +1,10 @@
 ---
 title: Untangling Cellular Senescence at Its Roots
 source: https://lifespan.io/untangling-cellular-senescence-at-its-roots/?utm_source=rss&utm_medium=rss&utm_campaign=untangling-cellular-senescence-at-its-roots
-created: 2026-05-24
+created: 2026-05-25
 tags: [milin-research]
 ---
 
-Cellular senescence — the state where cells stop dividing but resist death — is being investigated at its mechanistic roots, with mitochondrial dysfunction and lipid membrane degradation identified as key upstream drivers. Related research highlights how oxidative stress worsens cataracts, while CRISPR-based RNA-targeting systems are being developed to selectively kill senescent or cancerous cells on demand. On the therapeutic front, new mRNA therapies are boosting T cell priming to destroy cancer, and Cyclarity's Phase 1 trial shows promising data on excreting oxidized cholesterol to reverse heart disease. China is also standardizing physician education in longevity medicine, signaling growing institutional momentum in the anti-aging field.
+A collection of longevity and cellular biology research highlights covering multiple frontiers: omega-3 fatty acids show promise in alleviating kidney disease; mitochondrial aging is linked to loss of a key membrane lipid; an oxidative stress regulator paradoxically worsens cataracts; cellular senescence mechanisms are being untangled at the root level; and CRISPR-based RNA-targeting systems can now trigger cell death on demand. On the therapeutic side, new developments include an mRNA therapy that destroys cancer by enhancing T cell priming, a drug candidate to reverse heart disease, and Cyclarity's successful Phase 1 trial result reported by Matthew O'Connor. China is also moving to standardize physician education in longevity medicine, signaling institutional momentum in the field.
 
 > Source: https://lifespan.io/untangling-cellular-senescence-at-its-roots/?utm_source=rss&utm_medium=rss&utm_campaign=untangling-cellular-senescence-at-its-roots
