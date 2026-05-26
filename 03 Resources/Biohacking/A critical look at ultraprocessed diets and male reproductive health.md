@@ -1,10 +1,10 @@
 ---
 title: A critical look at ultra-processed diets and male reproductive health
 source: https://peterattiamd.com/ultra-processed-diets-and-reproductive-health/
-created: 2026-05-24
+created: 2026-05-25
 tags: [milin-research]
 ---
 
-A randomized crossover feeding study in 43 men found that 3 weeks on an ultra-processed diet (UPFs) caused ~1.3–1.4 kg fat mass gain, worsened cardiometabolic markers (LDL:HDL, blood pressure), a ~0.5 IU/L drop in FSH, and ~13% decline in total sperm motility — effects that appeared in both adequate- and excess-calorie conditions. These findings suggest UPFs may disrupt male reproductive hormones and spermatogenesis independently of total caloric intake, not merely through overeating. However, a critical lens is warranted: the study involved only 43 non-obese men over 3 weeks, and separating 'ultra-processed' as a causal mechanism from confounders like overall diet quality remains methodologically challenging. The broader context is alarming: meta-analyses report ~50% decline in sperm concentration and ~60% drop in total sperm count globally between 1973–2018, with diet as a key modifiable variable. The central unresolved question is whether 'ultra-processed' itself is a causal mechanism or a proxy label for diets that drive metabolic dysfunction.
+Sperm concentration has dropped ~50% and total sperm count ~60% between 1973–2018, with ultra-processed food (UPF) intake emerging as a key modifiable suspect. A randomized crossover feeding study (n=43 men, 20–35yo) found that a 3-week UPF diet caused ~1.3–1.4 kg fat mass gain, worsened cardiometabolic markers (LDL:HDL, blood pressure), reduced FSH by ~0.5 IU/L, and dropped total sperm motility by ~13% — effects appearing across both adequate- and excess-calorie arms. The central unresolved question is whether UPFs cause harm via specific food-processing mechanisms (additives, refined ingredients, gut microbiome disruption) or primarily through promoting excess calorie intake and metabolic dysfunction. The Washington Post's framing that UPFs 'decrease male sex hormones' likely overstates the causal clarity of the data, and the 3-week timeline is too short to draw firm conclusions on spermatogenesis (which cycles ~74 days). Biohacking takeaway: minimizing UPF exposure — independent of calorie control — appears to be a low-risk, high-upside lever for preserving metabolic and reproductive health.
 
 > Source: https://peterattiamd.com/ultra-processed-diets-and-reproductive-health/
