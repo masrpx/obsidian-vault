@@ -1,10 +1,10 @@
 ---
 title: #393 ‒ AMA #85: A guide to medications and supplements: determining what to take, what to skip, and how to know if they’re working for you
 source: https://peterattiamd.com/ama85/
-created: 2026-05-25
+created: 2026-05-26
 tags: [milin-research]
 ---
 
-Peter Attia's framework for evaluating medications and supplements starts with defining the problem precisely — using a measurable metric, a target threshold, and a time horizon — before ever choosing an intervention. Evidence standards should scale with the purpose: a longevity claim demands higher proof than a symptomatic fix. Relative risk statistics are often misleading without baseline risk context (e.g., 50% RRR means little if absolute risk drops from 0.2% to 0.1%). Supplements deserve more skepticism than pharmaceuticals due to weak US regulatory oversight, contamination risks, and marketing-driven overuse. Self-experiments should be structured with clear endpoints and periodic re-evaluation, and a small subset of OTC supplements may offer reasonable risk-reward ratios.
+Peter Attia's framework for evaluating medications and supplements starts with defining problems precisely using 3 elements: a measurable metric, a specific threshold/target, and a time horizon (e.g., 'ApoB 130→60 mg/dL within 6 months' beats 'my cholesterol is bad'). Evidence standards should scale with the intervention's purpose — higher stakes require stronger proof, and mechanistic reasoning alone is insufficient. Baseline risk context is critical: relative risk reductions are misleading without absolute numbers. Downside evaluation must go beyond side effects to include cost, inconvenience, and opportunity cost. US supplement regulation is weak, creating contamination and efficacy risks, so supplements warrant more skepticism than pharmaceuticals — only a small subset of OTC supplements pass a reasonable evidence/risk-reward filter.
 
 > Source: https://peterattiamd.com/ama85/
