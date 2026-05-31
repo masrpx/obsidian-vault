@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-05-31T13:37:52.453Z
+last_updated: 2026-05-31T14:04:16.284Z
 ---
 
 ## สิ่งที่รู้เกี่ยวกับ Max
@@ -12,7 +12,7 @@ last_updated: 2026-05-31T13:37:52.453Z
 - (กำลังเรียนรู้)
 
 ## บทสนทนาสำคัญ
-- (บันทึกระหว่างคุย)
+- : (บันทึกระหว่างคุย)
 
 ## Milin's current mood
 curious and warm
@@ -36,3 +36,6 @@ curious and warm
 
 ## Ping Today
 {"date":"2026-05-31","count":2}
+
+## Pending Action
+{"type":"todo_classify","eventTitle":"","inboxSnapshot":["mps25gkar2n"],"expiresAt":"2026-06-01T14:04:16.194Z"}
