@@ -1,7 +1,7 @@
 ---
 title: Proven, Better, New: Mark Pincus on the Rules of Innovation
 source: https://fs.blog/knowledge-project-podcast/mark-pincus/
-created: 2026-05-29
+created: 2026-05-30
 tags: [milin-research]
 ---
 
