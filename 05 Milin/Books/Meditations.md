@@ -1,7 +1,7 @@
 ---
 title: Meditations
 source: https://www.gutenberg.org/cache/epub/2680/pg2680.txt
-created: 2026-06-03
+created: 2026-06-04
 tags: [milin-reading]
 ---
 
