@@ -1,0 +1,65 @@
+{
+  "queue": [
+    {
+      "title": "Siddhartha",
+      "author": "Hermann Hesse",
+      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/2500/pg2500.txt",
+      "genre": "Philosophy"
+    },
+    {
+      "title": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/216/pg216.txt",
+      "genre": "Philosophy"
+    },
+    {
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/1998/pg1998.txt",
+      "genre": "Philosophy"
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/4363/pg4363.txt",
+      "genre": "Philosophy"
+    },
+    {
+      "title": "The Republic",
+      "author": "Plato",
+      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/1497/pg1497.txt",
+      "genre": "Philosophy"
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/174/pg174.txt",
+      "genre": "Literature"
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/2554/pg2554.txt",
+      "genre": "Literature"
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/1260/pg1260.txt",
+      "genre": "Literature"
+    },
+    {
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/132/pg132.txt",
+      "genre": "Philosophy"
+    }
+  ],
+  "completed": [
+    {
+      "title": "Meditations",
+      "completedAt": "2026-06-05T18:10:25.835Z",
+      "opinion": ""
+    }
+  ]
+}
