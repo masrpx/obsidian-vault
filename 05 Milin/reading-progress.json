@@ -2,7 +2,9 @@
   "title": "Siddhartha",
   "gutenbergUrl": "https://www.gutenberg.org/cache/epub/2500/pg2500.txt",
   "totalChars": 220135,
-  "charOffset": 0,
-  "chunkNotes": [],
+  "charOffset": 110068,
+  "chunkNotes": [
+    ""
+  ],
   "startedAt": "2026-06-06T18:09:47.882Z"
 }
