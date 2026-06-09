@@ -1,7 +1,7 @@
 ---
 title: Tao Te Ching
 source: https://www.gutenberg.org/cache/epub/216/pg216.txt
-created: 2026-06-08
+created: 2026-06-09
 tags: [milin-reading]
 ---
 
