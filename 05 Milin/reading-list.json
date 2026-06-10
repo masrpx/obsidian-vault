@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "Tao Te Ching",
-      "author": "Lao Tzu",
-      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/216/pg216.txt",
-      "genre": "Philosophy"
-    },
-    {
       "title": "Thus Spoke Zarathustra",
       "author": "Friedrich Nietzsche",
       "gutenbergUrl": "https://www.gutenberg.org/cache/epub/1998/pg1998.txt",
@@ -58,6 +52,11 @@
     {
       "title": "Siddhartha",
       "completedAt": "2026-06-07T18:59:16.511Z",
+      "opinion": ""
+    },
+    {
+      "title": "Tao Te Ching",
+      "completedAt": "2026-06-10T18:59:15.440Z",
       "opinion": ""
     }
   ]
