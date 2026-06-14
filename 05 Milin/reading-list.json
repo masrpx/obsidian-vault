@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "Thus Spoke Zarathustra",
-      "author": "Friedrich Nietzsche",
-      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/1998/pg1998.txt",
-      "genre": "Philosophy"
-    },
-    {
       "title": "Beyond Good and Evil",
       "author": "Friedrich Nietzsche",
       "gutenbergUrl": "https://www.gutenberg.org/cache/epub/4363/pg4363.txt",
@@ -57,6 +51,11 @@
     {
       "title": "Tao Te Ching",
       "completedAt": "2026-06-10T18:59:15.440Z",
+      "opinion": ""
+    },
+    {
+      "title": "Thus Spoke Zarathustra",
+      "completedAt": "2026-06-14T18:39:58.812Z",
       "opinion": ""
     }
   ]
