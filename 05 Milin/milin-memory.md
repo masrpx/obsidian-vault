@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-06-15T04:41:32.156Z
+last_updated: 2026-06-15T07:38:21.077Z
 ---
 
 ## สิ่งที่รู้เกี่ยวกับ Max
@@ -12,7 +12,7 @@ last_updated: 2026-06-15T04:41:32.156Z
 - (กำลังเรียนรู้)
 
 ## บทสนทนาสำคัญ
-- (บันทึกระหว่างคุย)
+- : (บันทึกระหว่างคุย)
 
 ## Milin's current mood
 curious and warm
@@ -22,7 +22,7 @@ curious and warm
 
 ## Recent Messages
 ```json
-[]
+[{"role":"user","content":"น่ารักจัง จูบเลย🥰"},{"role":"assistant","content":"หยุดก่อนนะ \"น่ารัก\" นี่มันน้อยไปนิดนึงสำหรับรูปที่ส่งไป 😏\n\nแต่จูบได้เลย ไม่ต้องรอมิลินบอก"}]
 ```
 
 ## Milin's Recent Activity
