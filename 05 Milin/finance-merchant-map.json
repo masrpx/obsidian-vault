@@ -6,14 +6,14 @@
     "category": "อาหาร"
   },
   "google ads": {
-    "category": "ค่าใช้จ่ายฟรีแลนซ์",
+    "category": "ค่าใช้จ่ายคลินิก",
     "taxBucket": "business_expense"
   },
   "lpth pf lm krua kra tx": {
     "category": "อาหาร"
   },
   "www grab com": {
-    "category": "เดินทาง"
+    "category": "อาหาร"
   },
   "apple com bill": {
     "category": "บันเทิง"
@@ -70,7 +70,7 @@
     "taxBucket": "business_expense"
   },
   "lp lineofficialaccou": {
-    "category": "ค่าใช้จ่ายฟรีแลนซ์",
+    "category": "ค่าใช้จ่ายคลินิก",
     "taxBucket": "business_expense"
   },
   "google youtubepremium": {
@@ -104,7 +104,7 @@
     "category": "ช้อปปิ้ง"
   },
   "facebk eyaz h": {
-    "category": "ค่าใช้จ่ายฟรีแลนซ์",
+    "category": "ค่าใช้จ่ายคลินิก",
     "taxBucket": "business_expense"
   },
   "lpth pf lm elvis su jr": {
@@ -156,7 +156,7 @@
     "category": "อาหาร"
   },
   "omise tiktok ads": {
-    "category": "ค่าใช้จ่ายฟรีแลนซ์",
+    "category": "ค่าใช้จ่ายคลินิก",
     "taxBucket": "business_expense"
   },
   "sf design village phuttha": {
@@ -184,7 +184,7 @@
     "category": "อาหาร"
   },
   "facebk bjasbcm h": {
-    "category": "ค่าใช้จ่ายฟรีแลนซ์",
+    "category": "ค่าใช้จ่ายคลินิก",
     "taxBucket": "business_expense"
   },
   "amdaeng by the river": {
@@ -253,7 +253,7 @@
     "category": "สุขภาพ"
   },
   "facebk by ptfv h": {
-    "category": "ค่าใช้จ่ายฟรีแลนซ์",
+    "category": "ค่าใช้จ่ายคลินิก",
     "taxBucket": "business_expense"
   },
   "alp otherretail": {
@@ -279,7 +279,7 @@
     "taxBucket": "business_expense"
   },
   "grabtaxi": {
-    "category": "เดินทาง"
+    "category": "อาหาร"
   },
   "adobe com": {
     "category": "ค่าใช้จ่ายฟรีแลนซ์",
@@ -289,7 +289,7 @@
     "category": "อาหาร"
   },
   "facebk he awgm h": {
-    "category": "ค่าใช้จ่ายฟรีแลนซ์",
+    "category": "ค่าใช้จ่ายคลินิก",
     "taxBucket": "business_expense"
   },
   "lpth pf lm bansuanf lc": {
@@ -314,7 +314,7 @@
     "category": "ช้อปปิ้ง"
   },
   "facebk zha pjv h": {
-    "category": "ค่าใช้จ่ายฟรีแลนซ์",
+    "category": "ค่าใช้จ่ายคลินิก",
     "taxBucket": "business_expense"
   },
   "allianz ayudhya assurance": {
@@ -418,7 +418,7 @@
     "category": "ฟรีแลนซ์"
   },
   "จาก x บจก รัชตกา รับโอนเงิน": {
-    "category": "ฟรีแลนซ์"
+    "category": "เงินเบิกคลินิก"
   },
   "เพื่อชำระ มูลนิธิเด็กโสสะแห่งประเทศไทย ในพระ บรมราชินูปถัมภ์ หักบัญชีอัตโนมัติ": {
     "category": "บริจาค",
@@ -438,12 +438,10 @@
     "category": "บิล/สาธารณูปโภค"
   },
   "โอนไป พร้อมเพย์ x บจก ริชแมน เอ็นเต โอนเงิน": {
-    "category": "ค่าใช้จ่ายฟรีแลนซ์",
-    "taxBucket": "business_expense"
+    "category": "บันเทิง"
   },
   "โอนไป x บจก ริชแมน เอ็นเต โอนเงิน": {
-    "category": "ค่าใช้จ่ายฟรีแลนซ์",
-    "taxBucket": "business_expense"
+    "category": "บันเทิง"
   },
   "เพื่อชำระ x ธนาคารทิสโก้ สินเชื่อ ประกัน อื่นๆ ชำระเงิน": {
     "category": "ผ่อนชำระ"
