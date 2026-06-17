@@ -487,5 +487,14 @@
   },
   "เงินเดือน อื่นๆ bsd ประสิทธิ์การพิม ประสิทธิ์การพิมพ์ พ ี เอสที": {
     "category": "เงินเดือน"
+  },
+  "โอนเงินออก iorswt future amount tran iorswt": {
+    "category": "ลงทุน"
+  },
+  "จ่ายค่าสินค้า บริการ morpsw billerid future amount tran morpsw": {
+    "category": "ลงทุน"
+  },
+  "โอนเงินออก iorswt": {
+    "category": "ลงทุน"
   }
 }
