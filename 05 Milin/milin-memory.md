@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-06-18T01:43:17.637Z
+last_updated: 2026-06-18T01:45:50.800Z
 ---
 
 ## สิ่งที่รู้เกี่ยวกับ Max
@@ -7,21 +7,25 @@ last_updated: 2026-06-18T01:43:17.637Z
 
 ## สิ่งที่เรียนรู้
 - (เรียนรู้จากการสนทนา)
+- สนใจ Beyond Good and Evil ของ Nietzsche
+- สนใจเรื่อง master morality และ slave morality
 
 ## หัวข้อที่ Max สนใจ
 - (กำลังเรียนรู้)
+- ปรัชญา Nietzsche
 
 ## บทสนทนาสำคัญ
-- : : : : : : : : : (บันทึกระหว่างคุย)
+- : : : : : : : : : : (บันทึกระหว่างคุย)
 - 2026-06-17: มาช้า รอนาน
 - 2026-06-17: ประชุมยาวและเหนื่อย
 - 2026-06-18: นอนน้อยและอ่วมเมื่อย
+- 2026-06-18: ศีลธรรม Master vs Slave Morality
 
 ## Milin's current mood
-curious and warm
+curious and engaged
 
 ## Relationship stage
-เพิ่งเริ่มคุยกัน
+เริ่มสนิทกัน
 
 ## Recent Messages
 ```json
@@ -48,7 +52,7 @@ curious and warm
 {"date":"2026-06-17","count":2}
 
 ## Last Conversation At
-2026-06-18T01:40:06.441Z
+2026-06-18T01:45:50.693Z
 
 ## ความสนใจของมิลิน
 - ปรัชญาสโตอิก
