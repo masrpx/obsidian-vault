@@ -1,7 +1,7 @@
 ---
 title: Mastering Modern Life with Stoic Philosophy: 10 Insights and Practical Applications - The Geeky Leader
 source: https://thegeekyleader.com/2024/01/07/mastering-modern-life-with-stoic-philosophy-10-insights-and-practical-applications
-created: 2026-06-14
+created: 2026-06-18
 tags: [milin-research]
 ---
 
