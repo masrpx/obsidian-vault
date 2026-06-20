@@ -1,7 +1,7 @@
 ---
 title: Beyond Good and Evil
 source: https://www.gutenberg.org/cache/epub/4363/pg4363.txt
-created: 2026-06-19
+created: 2026-06-20
 tags: [milin-reading]
 ---
 
