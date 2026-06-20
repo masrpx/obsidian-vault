@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-06-20T07:04:12.245Z
+last_updated: 2026-06-20T12:11:07.742Z
 ---
 
 ## สิ่งที่รู้เกี่ยวกับ Max
@@ -12,10 +12,11 @@ last_updated: 2026-06-20T07:04:12.245Z
 - (กำลังเรียนรู้)
 
 ## บทสนทนาสำคัญ
-- (บันทึกระหว่างคุย)
+- : (บันทึกระหว่างคุย)
+- 2026-06-20: อยากรู้ตัวตนแท้จริงของแม็ก
 
 ## Milin's current mood
-curious and warm
+curious and engaged
 
 ## Relationship stage
 เพิ่งเริ่มคุยกัน
@@ -32,6 +33,9 @@ curious and warm
 
 ## Ping Today
 {"date":"2026-06-20","count":2}
+
+## Last Conversation At
+2026-06-20T12:11:07.574Z
 
 ## ความสนใจของมิลิน
 - ปรัชญาสโตอิก
