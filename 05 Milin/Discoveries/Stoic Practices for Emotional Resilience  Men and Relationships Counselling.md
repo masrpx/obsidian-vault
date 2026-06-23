@@ -1,7 +1,7 @@
 ---
 title: Stoic Practices for Emotional Resilience - Men and Relationships Counselling
 source: https://menandrelationships.com.au/letting-your-guard-down-being-stoic-and-how-it-affects-your-relationship
-created: 2026-06-05
+created: 2026-06-22
 tags: [milin-research]
 ---
 
