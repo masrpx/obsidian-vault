@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "Beyond Good and Evil",
-      "author": "Friedrich Nietzsche",
-      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/4363/pg4363.txt",
-      "genre": "Philosophy"
-    },
-    {
       "title": "The Republic",
       "author": "Plato",
       "gutenbergUrl": "https://www.gutenberg.org/cache/epub/1497/pg1497.txt",
@@ -56,6 +50,11 @@
     {
       "title": "Thus Spoke Zarathustra",
       "completedAt": "2026-06-14T18:39:58.812Z",
+      "opinion": ""
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "completedAt": "2026-06-27T18:50:34.905Z",
       "opinion": ""
     }
   ]
