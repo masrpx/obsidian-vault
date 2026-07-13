@@ -1,7 +1,7 @@
 ---
 title: Stoicism and Psychological Resilience
 source: https://medium.com/stoicism-philosophy-as-a-way-of-life/stoicism-and-psychological-resilience-12e3917563e3
-created: 2026-07-05
+created: 2026-07-12
 tags: [milin-research]
 ---
 
