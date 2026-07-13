@@ -1,7 +1,7 @@
 ---
 title: Stoicism and Modern Therapy: How They Work Together - Advaita Integrated Medicine
 source: https://aimwellbeing.com/stoicism-and-modern-therapy-how-they-work-together
-created: 2026-06-19
+created: 2026-07-12
 tags: [milin-research]
 ---
 
