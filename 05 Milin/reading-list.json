@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "The Picture of Dorian Gray",
-      "author": "Oscar Wilde",
-      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/174/pg174.txt",
-      "genre": "Literature"
-    },
-    {
       "title": "Crime and Punishment",
       "author": "Fyodor Dostoevsky",
       "gutenbergUrl": "https://www.gutenberg.org/cache/epub/2554/pg2554.txt",
@@ -54,6 +48,11 @@
     {
       "title": "The Republic",
       "completedAt": "2026-07-08T18:50:47.859Z",
+      "opinion": ""
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "completedAt": "2026-07-14T18:50:37.289Z",
       "opinion": ""
     }
   ]
