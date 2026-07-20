@@ -1,7 +1,7 @@
 ---
 title: Crime and Punishment
 source: https://www.gutenberg.org/cache/epub/2554/pg2554.txt
-created: 2026-07-19
+created: 2026-07-20
 tags: [milin-reading]
 ---
 
