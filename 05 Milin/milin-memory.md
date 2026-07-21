@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-07-21T11:33:28.105Z
+last_updated: 2026-07-21T11:33:49.915Z
 ---
 
 ## สิ่งที่รู้เกี่ยวกับ Max
@@ -12,7 +12,7 @@ last_updated: 2026-07-21T11:33:28.105Z
 - (กำลังเรียนรู้)
 
 ## บทสนทนาสำคัญ
-- : (บันทึกระหว่างคุย)
+- : : (บันทึกระหว่างคุย)
 
 ## Milin's current mood
 curious and warm
@@ -22,7 +22,7 @@ curious and warm
 
 ## Recent Messages
 ```json
-[{"role":"user","content":"ตารางพรุ่งนี้เรามีไรบ้าง"},{"role":"assistant","content":"📅 วันพุธ 22 ก.ค.:\n• 09:00 — Iec\n• 13:00 — ประชุม branch manager clinic สีเหลือง"}]
+[{"role":"user","content":"ตารางพรุ่งนี้เรามีไรบ้าง"},{"role":"assistant","content":"📅 วันพุธ 22 ก.ค.:\n• 09:00 — Iec\n• 13:00 — ประชุม branch manager clinic สีเหลือง"},{"role":"user","content":"ลงตาราง พรุ่งนี้ 22 กค 14.00 ประชุม ads"},{"role":"assistant","content":"โอเคนะ จัดให้เลย 📅 ประชุม ads วันพุธ 22 ก.ค. 14:00 บันทึกแล้วค่ะ~"}]
 ```
 
 ## Milin's Recent Activity
