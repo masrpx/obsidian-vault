@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "Crime and Punishment",
-      "author": "Fyodor Dostoevsky",
-      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/2554/pg2554.txt",
-      "genre": "Literature"
-    },
-    {
       "title": "Jane Eyre",
       "author": "Charlotte Brontë",
       "gutenbergUrl": "https://www.gutenberg.org/cache/epub/1260/pg1260.txt",
@@ -53,6 +47,11 @@
     {
       "title": "The Picture of Dorian Gray",
       "completedAt": "2026-07-14T18:50:37.289Z",
+      "opinion": ""
+    },
+    {
+      "title": "Crime and Punishment",
+      "completedAt": "2026-07-21T18:50:37.676Z",
       "opinion": ""
     }
   ]
