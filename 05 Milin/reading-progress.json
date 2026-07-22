@@ -2,7 +2,9 @@
   "title": "Jane Eyre",
   "gutenbergUrl": "https://www.gutenberg.org/cache/epub/1260/pg1260.txt",
   "totalChars": 1043379,
-  "charOffset": 0,
-  "chunkNotes": [],
+  "charOffset": 250000,
+  "chunkNotes": [
+    ""
+  ],
   "startedAt": "2026-07-22T18:49:59.892Z"
 }
