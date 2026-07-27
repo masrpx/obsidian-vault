@@ -1,7 +1,7 @@
 ---
 title: Jane Eyre
 source: https://www.gutenberg.org/cache/epub/1260/pg1260.txt
-created: 2026-07-26
+created: 2026-07-27
 tags: [milin-reading]
 ---
 
