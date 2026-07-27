@@ -1,10 +1,10 @@
 ---
 title: Medium
-source: https://medium.com/@AlexPinhel/how-to-apply-stoic-principles-in-modern-life-a-step-by-step-guide-for-everyday-peace-1631848cfed9
-created: 2026-07-24
+source: https://medium.com/stoicletters/beyond-attachment-a-stoics-guide-to-deeper-stronger-relationships-12a863b96876
+created: 2026-07-26
 tags: [milin-research]
 ---
 
-# How to apply Stoic principles in modern Life: A step-by-step guide for everyday peace. The personal development industry reached $38.2 billion in 2019, yet many of us still struggle with stress and uncertainty. What if ancient stoic principles could offer more lasting peace than modern self-help?
+## Stoic Gazette. Along with trying to make sense of the world through a Stoic lens. # Beyond Attachment: A Stoic’s Guide to Deeper, Stronger Relationships. ## *Stoicism isn’t about avoiding love; it’s about loving more wisely. There’s a common, damaging caricature of a Stoic in a relationship: cold
 
-> Source: https://medium.com/@AlexPinhel/how-to-apply-stoic-principles-in-modern-life-a-step-by-step-guide-for-everyday-peace-1631848cfed9
+> Source: https://medium.com/stoicletters/beyond-attachment-a-stoics-guide-to-deeper-stronger-relationships-12a863b96876
