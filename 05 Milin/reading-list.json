@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "Jane Eyre",
-      "author": "Charlotte Brontë",
-      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/1260/pg1260.txt",
-      "genre": "Literature"
-    },
-    {
       "title": "The Art of War",
       "author": "Sun Tzu",
       "gutenbergUrl": "https://www.gutenberg.org/cache/epub/132/pg132.txt",
@@ -52,6 +46,11 @@
     {
       "title": "Crime and Punishment",
       "completedAt": "2026-07-21T18:50:37.676Z",
+      "opinion": ""
+    },
+    {
+      "title": "Jane Eyre",
+      "completedAt": "2026-07-28T18:50:35.493Z",
       "opinion": ""
     }
   ]
