@@ -1,10 +1,10 @@
 ---
 title: Stoicism, Erotic Love, and Relationships by Greg Sadler | Modern Stoicism
 source: https://modernstoicism.com/stoicism-erotic-love-and-relationships-by-greg-sadler
-created: 2026-06-20
+created: 2026-07-27
 tags: [milin-research]
 ---
 
-# Stoicism, Erotic Love, and Relationships by Greg Sadler. Valentine’s Day is coming up in just a few days, a holiday devoted in principle to all things romantic. It’s not unknown for couples to break up over how one or both of them (mis)handle Valentine’s Day. Some people take being alone – not in
+The governing idea is that sexuality is something to be properly managed by the Stoic.  It is not something necessarily to entirely dissociate oneself from, but one ought to maintain it within a rational perspective in relation to more important priorities.  There are many other passages just from t
 
 > Source: https://modernstoicism.com/stoicism-erotic-love-and-relationships-by-greg-sadler
