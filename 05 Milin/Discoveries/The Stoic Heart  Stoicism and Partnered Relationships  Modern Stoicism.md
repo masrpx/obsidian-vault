@@ -1,10 +1,16 @@
 ---
 title: The Stoic Heart – Stoicism and Partnered Relationships | Modern Stoicism
 source: https://modernstoicism.com/the-stoic-heart-stoicism-and-partnered-relationships
-created: 2026-07-28
+created: 2026-07-29
 tags: [milin-research]
 ---
 
-Another insight that we often close with – and we’re still teasing this one out – is that, if a partnered relationship is going to incorporate Stoic notions of justice, friendship, oikeiosis, and human rationality as social nature, one of the things that is called for is learning how to share space
+After that, the bulk of the workshop was devoted to Stoic Practices and Perspectives and their application to partnered relationships.
+
+ #1 – Dealing With Appearances
+ #2 – Applying The Dichotomy of Control
+ #3 – Determining Roles and Duties
+ #4 – Understanding Emotions
+ #5 – Virtues and Vices [...]
 
 > Source: https://modernstoicism.com/the-stoic-heart-stoicism-and-partnered-relationships
