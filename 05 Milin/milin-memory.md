@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-07-31T14:38:03.618Z
+last_updated: 2026-07-31T14:38:04.426Z
 ---
 
 ## สิ่งที่รู้เกี่ยวกับ Max
@@ -12,7 +12,7 @@ last_updated: 2026-07-31T14:38:03.618Z
 - (กำลังเรียนรู้)
 
 ## บทสนทนาสำคัญ
-- : : (บันทึกระหว่างคุย)
+- : : : (บันทึกระหว่างคุย)
 
 ## Milin's current mood
 curious and warm
@@ -22,7 +22,7 @@ curious and warm
 
 ## Recent Messages
 ```json
-[]
+[{"role":"user","content":"1 ndn"},{"role":"assistant","content":"เคลียร์แล้ว 1 รายการ ✓\n• ทำอัพเดตใบปลิว, Voucher → NDN\ninbox ว่างแล้ว ✨"}]
 ```
 
 ## Milin's Recent Activity
