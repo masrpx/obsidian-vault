@@ -1,7 +1,7 @@
 ---
 title: The Art of War
 source: https://www.gutenberg.org/cache/epub/132/pg132.txt
-created: 2026-08-05
+created: 2026-08-06
 tags: [milin-reading]
 ---
 
