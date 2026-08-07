@@ -1,12 +1,5 @@
 {
-  "queue": [
-    {
-      "title": "The Art of War",
-      "author": "Sun Tzu",
-      "gutenbergUrl": "https://www.gutenberg.org/cache/epub/132/pg132.txt",
-      "genre": "Philosophy"
-    }
-  ],
+  "queue": [],
   "completed": [
     {
       "title": "Meditations",
@@ -51,6 +44,11 @@
     {
       "title": "Jane Eyre",
       "completedAt": "2026-07-28T18:50:35.493Z",
+      "opinion": ""
+    },
+    {
+      "title": "The Art of War",
+      "completedAt": "2026-08-07T18:50:40.790Z",
       "opinion": ""
     }
   ]
