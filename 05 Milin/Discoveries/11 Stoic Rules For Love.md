@@ -1,10 +1,10 @@
 ---
 title: 11 Stoic Rules For Love
 source: https://www.youtube.com/watch?v=MvPHVQ2yu90
-created: 2026-08-04
+created: 2026-08-09
 tags: [milin-research]
 ---
 
-Part of being in relationships is going to be hurt. It's going to be frustration. It's going to be mistakes. Marcus Aurelius and his wife were married for 30 years. They had 13 children and when she died, he was profoundly devastated. He had her deified. There are rumors and they date all the way ba
+one thing that you control in your relationship is you. How can you be the person that you need to be in the relationship? How can you give rather than receive? And as they say, love is about serving. It's about taking pleasure in making somebody else happier and making their life better. We Stoics,
 
 > Source: https://www.youtube.com/watch?v=MvPHVQ2yu90
