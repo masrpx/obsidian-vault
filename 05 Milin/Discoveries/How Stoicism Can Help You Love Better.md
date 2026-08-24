@@ -1,7 +1,7 @@
 ---
 title: How Stoicism Can Help You Love Better
 source: https://dailystoic.com/how-stoicism-can-help-you-love-better
-created: 2026-08-18
+created: 2026-08-23
 tags: [milin-research]
 ---
 
