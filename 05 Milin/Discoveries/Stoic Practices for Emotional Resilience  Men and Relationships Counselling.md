@@ -1,20 +1,21 @@
 ---
 title: Stoic Practices for Emotional Resilience - Men and Relationships Counselling
 source: https://menandrelationships.com.au/letting-your-guard-down-being-stoic-and-how-it-affects-your-relationship
-created: 2026-08-15
+created: 2026-08-25
 tags: [milin-research]
 ---
 
-Professional guidance can be incredibly beneficial in breaking long-held habits.
+Skip to content
 
- Be Patient:
+.
 
-Changing the way you express emotions takes time.
+2. A Modern Version  
+Stoicism today often refers to maintaining a calm and unemotional demeanour in the face of adversity.
 
-Be patient with yourself and your partner as you navigate this new territory together.
+It involves endurance, self-discipline, and the ability to remain unaffected by external circumstances.
 
-##### 
+#### Why Stoicism is Positive in Relationships
 
-##### While stoicism can help maintain calm and stability
+St
 
 > Source: https://menandrelationships.com.au/letting-your-guard-down-being-stoic-and-how-it-affects-your-relationship
