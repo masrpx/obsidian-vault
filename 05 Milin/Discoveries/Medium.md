@@ -1,32 +1,12 @@
 ---
 title: Medium
-source: https://medium.com/stoicism-philosophy-as-a-way-of-life/relationships-quit-being-a-pushover-c9c424ad8aab
-created: 2026-08-20
+source: https://medium.com/@stoicminds.channel/stoic-strategies-for-relationship-anxiety-aaa38ef4d99a
+created: 2026-08-26
 tags: [milin-research]
 ---
 
-Sign up
+Stoicism provides a practical framework to cultivate a resilient mindset and find peace amidst relationship challenges. By applying Stoic principles and practices, we can navigate the ups and downs of relationships with greater equanimity, promoting our mental health and well-being.
 
-Sign in
+## Understandin
 
-Sign up
-
-Sign in
-
-Unknown user
-
-## Stoicism — Philosophy as a Way of Life
-
-Stoicism — Philosophy as a Way of Life
-
-Articles about Stoic Philosophy for modern living
-
-Member-only story
-
-# How to be Assertive in Relationships
-
-## 10 Stoic Scripts & Tips to Keep Love on Track
-
-Linda B
-
-> Source: https://medium.com/stoicism-philosophy-as-a-way-of-life/relationships-quit-being-a-pushover-c9c424ad8aab
+> Source: https://medium.com/@stoicminds.channel/stoic-strategies-for-relationship-anxiety-aaa38ef4d99a
