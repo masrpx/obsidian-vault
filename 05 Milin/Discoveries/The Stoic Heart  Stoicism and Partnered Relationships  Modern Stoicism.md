@@ -1,7 +1,7 @@
 ---
 title: The Stoic Heart – Stoicism and Partnered Relationships | Modern Stoicism
 source: https://modernstoicism.com/the-stoic-heart-stoicism-and-partnered-relationships
-created: 2026-08-07
+created: 2026-08-28
 tags: [milin-research]
 ---
 
