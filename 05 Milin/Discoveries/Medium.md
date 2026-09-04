@@ -1,7 +1,7 @@
 ---
 title: Medium
-source: https://medium.com/stoicism-philosophy-as-a-way-of-life/relationships-quit-being-a-pushover-c9c424ad8aab
-created: 2026-08-31
+source: https://medium.com/stoicletters/beyond-attachment-a-stoics-guide-to-deeper-stronger-relationships-12a863b96876
+created: 2026-09-03
 tags: [milin-research]
 ---
 
@@ -15,18 +15,14 @@ Sign in
 
 Unknown user
 
-## Stoicism — Philosophy as a Way of Life
+## Stoic Gazette
 
-Stoicism — Philosophy as a Way of Life
+Stoic Gazette
 
-Articles about Stoic Philosophy for modern living
+In this publication I interpret Letters from a Stoic by Seneca into modern English. Along with trying to make sense of the world through a Stoic lens.
 
 Member-only story
 
-# How to be Assertive in Relationships
+# Beyond Attachment: A Stoic’s Guide to Deeper
 
-## 10 Stoic Scripts & Tips to Keep Love on Track
-
-Linda B
-
-> Source: https://medium.com/stoicism-philosophy-as-a-way-of-life/relationships-quit-being-a-pushover-c9c424ad8aab
+> Source: https://medium.com/stoicletters/beyond-attachment-a-stoics-guide-to-deeper-stronger-relationships-12a863b96876
