@@ -1,28 +1,12 @@
 ---
 title: Medium
 source: https://medium.com/stoicletters/beyond-attachment-a-stoics-guide-to-deeper-stronger-relationships-12a863b96876
-created: 2026-09-03
+created: 2026-09-05
 tags: [milin-research]
 ---
 
-Sign up
+Authentic Stoicism is not about feeling less; it’s about loving better. It offers a profound and practical framework for building relationships that are not only more resilient to life’s inevitable challenges but also deeper, more appreciative, and more meaningful.
 
-Sign in
-
-Sign up
-
-Sign in
-
-Unknown user
-
-## Stoic Gazette
-
-Stoic Gazette
-
-In this publication I interpret Letters from a Stoic by Seneca into modern English. Along with trying to make sense of the world through a Stoic lens.
-
-Member-only story
-
-# Beyond Attachment: A Stoic’s Guide to Deeper
+The Stoics understood that love,
 
 > Source: https://medium.com/stoicletters/beyond-attachment-a-stoics-guide-to-deeper-stronger-relationships-12a863b96876
